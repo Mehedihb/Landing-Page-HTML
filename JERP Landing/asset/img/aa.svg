@@ -1,0 +1,16 @@
+<svg id="aa" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="455.334" viewBox="0 0 403 455.334">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Background" width="403" height="455.334" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1.075" y1="0.153" x2="0.3" y2="0.511" gradientUnits="objectBoundingBox">
+      <stop offset="0.126" stop-color="#62bafe"/>
+      <stop offset="1" stop-color="#f5f8fc" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Background-2" data-name="Background" width="403" height="455.334" fill="none"/>
+  <g id="SS_30_" data-name="SS (30)" clip-path="url(#clip-path)">
+    <path id="Shape" d="M131.58,177.432C-1.074,220.643,53.919,86.664,98,14.273L0,0V288.117L445.864,472.266V363.68c-39.785,5.457-110.489-13.937-75-135.173C415.219,76.962,297.4,123.419,131.58,177.432Z" transform="translate(0 -17.072)" fill="url(#linear-gradient)"/>
+    <path id="Shape-2" data-name="Shape" d="M62.463,0C7.089,77.378-62,220.588,104.647,174.4c208.311-57.734,356.326-107.392,300.6,54.594-44.58,129.588,44.243,150.319,94.22,144.486" transform="translate(-59.069 -30.005)" fill="none" stroke="#026cd1" stroke-miterlimit="10" stroke-width="0.5"/>
+  </g>
+</svg>

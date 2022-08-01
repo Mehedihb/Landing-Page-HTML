@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="gply-btn" transform="translate(-6438 -2448)">
+    <rect id="BG" width="100" height="100" transform="translate(6438 2448)" fill="#fff" opacity="0"/>
+    <g id="play" transform="translate(6429.37 2438)">
+      <g id="_x34_2.Google_PLay" transform="translate(14.63 10)">
+        <path id="Path_743" data-name="Path 743" d="M88.793,45.958,71.858,36.177,54.521,53.514,71.857,70.851l16.994-9.814a8.8,8.8,0,0,0-.058-15.079Z" transform="translate(-4.657 -3.456)" fill="#fff" opacity="0.75"/>
+        <path id="Path_744" data-name="Path 744" d="M64.494,59.56,17.27,12a8.912,8.912,0,0,0-2.64,6.335v82.312a8.917,8.917,0,0,0,2.64,6.336Z" transform="translate(-14.63 -9.501)" fill="#fff" opacity="0.5"/>
+        <path id="Path_745" data-name="Path 745" d="M63.966,60.059,81.3,42.721l.027-.028L58.1,29.319l-30.622-18a8.687,8.687,0,0,0-8.917-.176,13.233,13.233,0,0,0-1.819,1.349Z" transform="translate(-14.102 -10)" fill="#fff"/>
+        <path id="Path_746" data-name="Path 746" d="M16.742,97.466a13.233,13.233,0,0,0,1.819,1.349A9.108,9.108,0,0,0,22.9,99.988a8.939,8.939,0,0,0,4.517-1.29L58.1,80.787l23.23-13.375-.028-.028L63.966,50.047Z" transform="translate(-14.102 0.012)" fill="#fff" opacity="0.25"/>
+      </g>
+    </g>
+  </g>
+</svg>
